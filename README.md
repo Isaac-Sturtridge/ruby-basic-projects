@@ -5,3 +5,5 @@ This repository contains all of the basic Ruby projects from the Odin Project Ru
 This includes:
 Caesar Cipher
 Sub Strings
+Stock-Picker
+Bubble Sort
